@@ -3201,6 +3201,7 @@ CollectionView, make Instagram Discover within minutes.
 * [Lifehacker](https://lifehacker.com/tag/ios)
 * [NSHipster](https://nshipster.com)
 * [Objc.io](https://www.objc.io/)
+* [iOS Examples](https://iosexample.com/)
 * [ASCIIwwdc](https://asciiwwdc.com/)
 * [Natasha The Robot](https://www.natashatherobot.com/)
 * [Apple's Swift Blog](https://developer.apple.com/swift/blog/)
